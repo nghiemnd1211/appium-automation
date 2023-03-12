@@ -32,3 +32,7 @@ Launch App Test
 
 ** Resolver personal issue
 Need to install build-tools by running sdkmanager "build-tools;29.0.3"
+
+Tricky things:
+- content-desc on android equals with Accessibility attribute on Appium
+- Find element approach: find by accessibility_id or (id) resource_id
